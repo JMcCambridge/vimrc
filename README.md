@@ -1,1 +1,1 @@
-1) move .vimrc to ~/
+This is the ~/.vim/ folder move .vimrc to ~/
